@@ -1,3 +1,5 @@
+# This fork contains breaking changes from Graylog v3 to v4
+
 # terraform-provider-graylog
 
 [![Build Status](https://github.com/terraform-provider-graylog/terraform-provider-graylog/workflows/CI/badge.svg)](https://github.com/terraform-provider-graylog/terraform-provider-graylog/actions)
