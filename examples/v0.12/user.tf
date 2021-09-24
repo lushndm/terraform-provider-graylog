@@ -3,7 +3,7 @@ resource "graylog_user" "test" {
   email      = "test@example.com"
   password   = "password"
   first_name = "test"
-  last_name = "test"
+  last_name  = "test"
   roles = [
     "Reader",
   ]
